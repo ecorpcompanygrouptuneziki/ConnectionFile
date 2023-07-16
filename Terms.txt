@@ -1,1 +1,18 @@
-<h1>TERMS AND CONDITIONS </h1>
+<h1>TERMS AND CONDITIONS</h1>
+<p>Tune Ziki is a Product from E-corp Company Group That Has The essens to Be a Music Distirbution and Music On line Audio Player</p>
+<br>
+<p>Tune Ziki is Desgined with a friendly interface and Ui Design Aimed At Communicating the message of the App to the users and is in favour of All Ages,Gender and Religion.</p>
+<br>
+<h1>TUNE ZIKI AIM</h1>
+<p>Our App Aim Has Always Been Clear From The Start of The app Development
+<br>
+To Disturb Music to Users On Our Platform and Support both local and International Artist with Music Handling.
+<br>
+Tune Ziki is an App with vaious sections of usage and design that are inherited from a special design of E-corp Company Group and Essen Artists.
+</p>
+<h2>App Usage Policy</h2>
+<h1>DATA PROTECTION</h1>
+<p>As our Main Goal of the App is to distirb Music of Any Artist Regardless of Their Historical Background With the Aim Of Keeping The Users Data Private From Outsider.
+<br>
+Tune Ziki Has Gone A head to Add layers of Protection to users data from our server and also help from third parties inordert to protect users data from wrong usage.
+</p>
