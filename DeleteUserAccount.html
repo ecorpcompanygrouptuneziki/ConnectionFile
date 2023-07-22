@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account Deletion</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+        }
+        
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 36px;
+        }
+        
+        main {
+            padding: 20px;
+        }
+        
+        .content {
+            margin: 0 auto;
+            max-width: 600px;
+            text-align: center;
+        }
+        
+        form {
+            margin-top: 20px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        
+        input[type="email"] {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        
+        button {
+            margin-top: 10px;
+            padding: 10px 20px;
+            background-color: #dc3545;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        
+        button:hover {
+            background-color: #c82333;
+        }
+        
+        footer {
+            background-color: #f5f5f5;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Account Deletion</h1>
+    </header>
+    <main>
+        <section class="content">
+            <p>
+                To delete your account, please enter your email address below. This action is irreversible and will permanently remove all your data from our system.
+            </p>
+            <form id="deleteForm">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                <button type="submit">Delete My Account</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Your Company. All rights reserved.</p>
+    </footer>
+    <script>
+        document.getElementById('deleteForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            var confirmation = confirm('Are you sure you want to delete your account? This action is irreversible.');
+            
+            if (confirmation) {
+                var email = document.getElementById('email').value;
+                
+                // Here, you would need to implement the backend functionality to delete the user account.
+                // This could involve making an API call to the server, which will handle the deletion process.
+                // For this simple template, we won't include the backend logic, as it requires a server and database setup.
+                alert('Your account with email: ' + email + ' has been deleted.'); // Display a message to inform the user.
+            }
+        });
+    </script>
+</body>
+</html>
