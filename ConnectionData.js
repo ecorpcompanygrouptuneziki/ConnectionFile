@@ -28,3 +28,5 @@ const MOREAPPSAPI=`https://www.e-corpcompanygroup.com`;
 const BECOMEARTISTSAPI=`https://www.e-corpcompanygroup.com`;
 //FORGOT PASSWORD API
 const FORGOTPASSWORDAPI=`https://www.e-corpcompanygroup.com`
+//PRIVACY POLICY API
+const PRIVACYPOLICYAPI=`https://ecorpcompanygrouptuneziki.github.io/ConnectionFile/PrivacyPolicy.html`;
