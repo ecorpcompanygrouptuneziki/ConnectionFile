@@ -22,3 +22,9 @@ const TERMSAPIR=`https://ecorpcompanygrouptuneziki.github.io/ConnectionFile/Term
 const ONLINEPOLICYAPI=`https://ecorpcompanygrouptuneziki.github.io/ConnectionFile/PrivacyPolicy.html`;
 //Contact API
 const CONTACTUSPAGEAPI=`https://www.e-corpcompanygroup.com`;
+//MORE APPS API
+const MOREAPPSAPI=`https://www.e-corpcompanygroup.com`;
+//BECOME ARTIST API
+const BECOMEARTISTSAPI=`https://www.e-corpcompanygroup.com`;
+//FORGOT PASSWORD API
+const FORGOTPASSWORDAPI=`https://www.e-corpcompanygroup.com`
