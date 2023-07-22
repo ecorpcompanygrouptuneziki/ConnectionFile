@@ -18,3 +18,7 @@ const AFROAPI=`https://script.googleusercontent.com/macros/echo?user_content_key
 const SONGSAPI=`https://script.googleusercontent.com/macros/echo?user_content_key=H1knSHGeZTd6yWJpgZsn836ENui2fwzky1Lh77Yj4lR1ENU5R9peCKKKjTcM35A9FQT7KOnzAw1VFYt7ckzwR-JSgkT68XNsm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnIQJw4UPFltyPcp8wuk75pr56xk3Bdb8eTNPh-rE8RByc2OOX9BNauABDO7ey35NtwgKqga2rHU2Et8hC9WKnYhoRDh1by2Cdtz9Jw9Md8uu&lib=MjhHKD0XK8KIPDSmSUZaeMr0wVN3VIjiR`;
 //TERMS API
 const TERMSAPIR=`https://ecorpcompanygrouptuneziki.github.io/ConnectionFile/Terms.txt`;
+//PRIVACY ONLINE POLICY API
+const ONLINEPOLICYAPI=`https://ecorpcompanygrouptuneziki.github.io/ConnectionFile/PrivacyPolicy.html`;
+//Contact API
+const CONTACTUSPAGEAPI=`https://www.e-corpcompanygroup.com`;
