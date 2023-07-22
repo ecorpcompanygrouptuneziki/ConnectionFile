@@ -27,6 +27,14 @@ const MOREAPPSAPI=`https://www.e-corpcompanygroup.com`;
 //BECOME ARTIST API
 const BECOMEARTISTSAPI=`https://www.e-corpcompanygroup.com`;
 //FORGOT PASSWORD API
-const FORGOTPASSWORDAPI=`https://www.e-corpcompanygroup.com`
+const FORGOTPASSWORDAPI=`https://www.e-corpcompanygroup.com`;
 //PRIVACY POLICY API
-const PRIVACYPOLICYAPI=`https://ecorpcompanygrouptuneziki.github.io/ConnectionFile/PrivacyPolicy.html`;
+const PRIVACYPOLICYAPI=`https://ecorpcompanygrouptuneziki.github.io/ConnectionFile/Terms.txt`;
+//HELPPAGEAPI
+const HELPPAGEAPI=`https://ecorpcompanygrouptuneziki.github.io/ConnectionFile/Terms.txt`;
+//UPDATEPROFILEPICTUREAPI
+const UPDATEPROFILEPICTUREAPI=`https://ecorpcompanygrouptuneziki.github.io/ConnectionFile/PrivacyPolicy.html`;
+//PAYMENTSAPI
+const PAYMENTSAPI=`https://ecorpcompanygrouptuneziki.github.io/ConnectionFile/PrivacyPolicy.html`;
+//PROFILEAPI
+const PROFILEAPI=`https://ecorpcompanygrouptuneziki.github.io/ConnectionFile/PrivacyPolicy.html`;
