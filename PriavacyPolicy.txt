@@ -1,0 +1,31 @@
+<h2>1. Information We Collect</h2>
+            <p>
+                Tuneziki may collect the following information when you sign up for our services or use the app:
+                <ul>
+                    <li>Your name and contact details (email address, phone number).</li>
+                    <li>Your artist or band name, profile information, and music tracks.</li>
+                    <li>Payment information, such as credit card details or other payment method details.</li>
+                </ul>
+            </p>
+
+            <h2>2. How We Use Your Information</h2>
+            <p>
+                We use the information we collect to:
+                <ul>
+                    <li>Provide and improve Tuneziki's music distribution services.</li>
+                    <li>Personalize your experience with Tuneziki, such as recommending relevant music or artists.</li>
+                    <li>Process payments and offer customer support.</li>
+                    <li>Analyze usage patterns, track app performance, and make data-driven improvements to Tuneziki.</li>
+                </ul>
+            </p>
+
+            <h2>3. Sharing Your Information</h2>
+            <p>
+                We may share your information with:
+                <ul>
+                    <li>Third-party services, such as streaming platforms, to distribute your music and provide additional promotional opportunities.</li>
+                    <li>Trusted third-party service providers who help us operate, improve, and secure Tuneziki.</li>
+                    <li>In the event of a merger, acquisition, or sale of assets, your information may be transferred as part of the transaction.</li>
+                    <li>If required by law or if we believe that such disclosure is necessary to protect our rights or comply with a legal process.</li>
+                </ul>
+            </p>
