@@ -29,7 +29,7 @@ const BECOMEARTISTSAPI=`https://www.e-corpcompanygroup.com`;
 //FORGOT PASSWORD API
 const FORGOTPASSWORDAPI=`https://www.e-corpcompanygroup.com`;
 //PRIVACY POLICY API
-const PRIVACYPOLICYAPI=`https://ecorpcompanygrouptuneziki.github.io/ConnectionFile/Terms.txt`;
+const PRIVACYPOLICYAPI=`https://ecorpcompanygrouptuneziki.github.io/ConnectionFile/PriavacyPolicy.txt`;
 //HELPPAGEAPI
 const HELPPAGEAPI=`https://ecorpcompanygrouptuneziki.github.io/ConnectionFile/help.txt`;
 //UPDATEPROFILEPICTUREAPI
