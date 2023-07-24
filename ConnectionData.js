@@ -31,7 +31,7 @@ const FORGOTPASSWORDAPI=`https://www.e-corpcompanygroup.com`;
 //PRIVACY POLICY API
 const PRIVACYPOLICYAPI=`https://ecorpcompanygrouptuneziki.github.io/ConnectionFile/Terms.txt`;
 //HELPPAGEAPI
-const HELPPAGEAPI=`https://ecorpcompanygrouptuneziki.github.io/ConnectionFile/Terms.txt`;
+const HELPPAGEAPI=`https://ecorpcompanygrouptuneziki.github.io/ConnectionFile/help.txt`;
 //UPDATEPROFILEPICTUREAPI
 const UPDATEPROFILEPICTUREAPI=`https://ecorpcompanygrouptuneziki.github.io/ConnectionFile/PrivacyPolicy.html`;
 //PAYMENTSAPI
