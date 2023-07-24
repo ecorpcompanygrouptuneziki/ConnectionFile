@@ -1,0 +1,5 @@
+<h1>App Usage</h1>
+<p>Tune Ziki is made with a lovely user Interface For Music Lovers Around the world.
+<br>
+Tune Ziki is designed with the easiest system that is fast and reliable to get music to the users since the system is designed to hold its best
+</p>
